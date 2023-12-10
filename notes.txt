@@ -1,10 +1,8 @@
-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
+
 
 // 1. Create a new repository on GitHub. To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub.
 
-GITHUB_TOKENcfd4cc277b4b91db68777152cade2aeba7722821 
-Client ID
-d976af4a3948cf7e7fad
+
 
 barcode scanner 
 
